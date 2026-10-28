@@ -1,0 +1,8 @@
+AYGÜMÜŞ AHŞAP BODRUM — YAYIN PAKETİ
+
+Yükleme:
+1. Bu paketin içindeki index.html ve images klasörünü hosting hizmetinizin web kök dizinine birlikte yükleyin.
+2. index.html web kök dizininde kalmalı; images klasörünün adı ve konumu korunmalıdır.
+3. Yayın adresi ve alan adı hosting tarafında tanımlanır.
+
+Not: Sosyal medya bağlantıları platformlarda “Aygümüş Ahşap Bodrum” araması açar; doğrudan profil bağlantıları değildir.
